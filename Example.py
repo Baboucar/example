@@ -2,7 +2,7 @@ import pandas as pd
 
 
 mydataset = {
-  'cars': ["BMW", "Volvo", "Ford"],
+  'cars': ["BMW", "Volvo", "Ford","BYD"],
   'passings': [3, 7, 2]
 }
 
